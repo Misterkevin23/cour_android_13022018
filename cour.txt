@@ -1,0 +1,10 @@
+openWeatherMap
+
+
+->Api-> current weather data -> api doc -> clicker sur api.openweathermap.org/data/2.5/weather?q=London
+	->changer samples au debut de l'url par api et mettre sa clef
+	-> ajouter &units=metric pour avoir la temperature en °C
+
+->dans android studio -> file -> setting -> plugging -> findviewbyme -> l'installer -> redémarrer android studio
+	->permet de generer automatiquement le code des findviewById (lien entre le controleur et la view via l'id)
+	-> utilisation -> click droit sur le fichier xml
